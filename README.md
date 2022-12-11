@@ -22,7 +22,7 @@
 
 - 📫 How to reach me : **siddheshk070@gmail.com, www.linkedin.com/in/siddhesh-kumbhar-517627b4**
 
-- 📄 Know about my experiences : [www.linkedin.com/in/siddhesh-kumbhar-517627b4](www.linkedin.com/in/siddhesh-kumbhar-517627b4)
+- 📄 Know about my experiences : [www.linkedin.com/in/siddhesh-kumbhar-517627b4]
 
 - ⚡ Fun fact : **I like solving competitive coding problems. I like to explore new technologies.**
 
