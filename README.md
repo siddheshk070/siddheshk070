@@ -43,6 +43,8 @@
 <h3 align="center">Connect with me :</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/siddhesh-kumbhar-517627b4" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg" alt="pradeepchandra-reddy-s-c LinkedIn" height="50" width="120" /></a>
+<a href="siddheshk070@gmail.com" target="blank"><img align="center" src="https://github.com/siddheshk070/siddheshk070/blob/main/icons8-gmail-logo-375.png"  height="50" width="60" /></a>  
+<a href="https://twitter.com/sid123k" target="blank"><img align="center" src="https://github.com/siddheshk070/siddheshk070/blob/main/icons8-twitter-squared-96.png"  height="50" width="60" /></a>   
 </p>
 
 <p><p align="center">&nbsp;
