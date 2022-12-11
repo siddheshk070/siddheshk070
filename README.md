@@ -71,7 +71,7 @@
 <div align="center">
   <h3 align="center"> Have a Great Day!</h3>
   <div>
-    <img src="https://github.com/siddheshk070/siddheshk070/blob/main/340c5a4878082e690398744e0173fdc9.gif" align="center" width="175" height="175">
+    <img src="https://github.com/siddheshk070/siddheshk070/blob/main/360_F_388053429_xbhyckinPQgBHYraIyUGL1f9O5v3avPO.jpg" align="center" width="200" height="105">
   </div>
 </div>
 
