@@ -55,7 +55,12 @@
 </p>
 
 
-<!---
-soopertramp/soopertramp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<div align="center">
+  <h5 align="center"> Have a good day! :</h5>
+  <div>
+    <img src="https://github.com/siddheshk070/siddheshk070/blob/main/340c5a4878082e690398744e0173fdc9.gif" align="center" width="200" height="200">
+  </div>
+</div>
+
+
