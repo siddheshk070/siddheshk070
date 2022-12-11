@@ -8,7 +8,7 @@
 <a href="https://github.com/siddheshk070">
   
   <p align="center">
-  <img src="https://github.com/siddheshk070/siddheshk070/blob/main/data%20science%20image.jfif" alt="Background"> 
+  <img src="https://github.com/siddheshk070/siddheshk070/blob/main/data%20science%20image.jfif" alt="Background" height="250" width="600"> 
 
 <h3 align="center">A passionate Data Scientist from Navi Mumbai,India.</h3>
 
@@ -28,7 +28,7 @@
 
 <div align="center">
   <div>
-    <img src="https://github.com/siddheshk070/siddheshk070/blob/main/upgrade-premium-animation-dribbble.gif" align="center" width="450" height="300">
+    <img src="https://github.com/siddheshk070/siddheshk070/blob/main/upgrade-premium-animation-dribbble.gif" align="center" width="450" height="275">
 </div>
   
   
@@ -68,7 +68,7 @@
 
 
 <div align="center">
-  <h3 align="center"> Have a good day!</h3>
+  <h3 align="center"> Have a Great Day!</h3>
   <div>
     <img src="https://github.com/siddheshk070/siddheshk070/blob/main/340c5a4878082e690398744e0173fdc9.gif" align="center" width="200" height="200">
   </div>
