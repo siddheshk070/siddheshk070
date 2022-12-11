@@ -26,7 +26,12 @@
 
 - ⚡ Fun fact : **I like solving competitive coding problems. I like to explore new technologies.**
 
-
+<div align="center">
+  <div>
+    <img src="https://github.com/siddheshk070/siddheshk070/blob/main/upgrade-premium-animation-dribbble.gif" align="center" width="450" height="300">
+</div>
+  
+  
 <p align="center">
 <a href="https://twitter.com/sid123k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sid123k" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/siddhesh kumbhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhesh kumbhar" height="30" width="40" /></a>
@@ -45,6 +50,12 @@
 
 <p><p align="center">
 <img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=siddheshk070&" alt="siddheshk070" /></p>
+  
+  <div align="center">
+  
+  ![Snake animation](https://github.com/siddheshk070/siddheshk070/blob/main/github-contribution-grid-snake.svg)
+ 
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=siddheshk070&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshk070" />
@@ -57,7 +68,7 @@
 
 
 <div align="center">
-  <h5 align="center"> Have a good day! :</h5>
+  <h3 align="center"> Have a good day!</h3>
   <div>
     <img src="https://github.com/siddheshk070/siddheshk070/blob/main/340c5a4878082e690398744e0173fdc9.gif" align="center" width="200" height="200">
   </div>
