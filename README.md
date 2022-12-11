@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning Data Science **Python | SQL | Machine Learning | Tableau |**
 
-- 💬About Me **Presently Doing Freelance Work To Develop Study Material, Create And Review Questions With Detailed Solutions Analyze And Understand The Pattern And Difficulty Level Of Respective Model Designs. With This I Am Also Pursuing Master's Program for Data Science & Business Analytics From Simplilearn. I Am Passionate About Data Science And Business. Seeking Opportunities To Leverage My Knowledge And Expertise In Helping Organisations Build Valuable Insights For Improving Their Performance And Building Solutions To Solve Business Problems By Leveraging The Data. • Keen To Work In Data Science Role. • Optimistic And Co-Operative. • Constantly Looking For Learning Opportunities.**
+- 💬About Me:  **Presently Doing Freelance Work To Develop Study Material, Create And Review Questions With Detailed Solutions Analyze And Understand The Pattern And Difficulty Level Of Respective Model Designs. With This I Am Also Pursuing Master's Program for Data Science & Business Analytics From Simplilearn. I Am Passionate About Data Science And Business. Seeking Opportunities To Leverage My Knowledge And Expertise In Helping Organisations Build Valuable Insights For Improving Their Performance And Building Solutions To Solve Business Problems By Leveraging The Data. • Keen To Work In Data Science Role. • Optimistic And Co-Operative. • Constantly Looking For Learning Opportunities.**
 
-- 📫 How to reach me **siddheshk070@gmail.com, www.linkedin.com/in/siddhesh-kumbhar-517627b4**
+- 📫 How to reach me:  **siddheshk070@gmail.com, www.linkedin.com/in/siddhesh-kumbhar-517627b4**
 
-- 📄 Know about my experiences [www.linkedin.com/in/siddhesh-kumbhar-517627b4](www.linkedin.com/in/siddhesh-kumbhar-517627b4)
+- 📄 Know about my experiences:  [www.linkedin.com/in/siddhesh-kumbhar-517627b4](www.linkedin.com/in/siddhesh-kumbhar-517627b4)
 
-- ⚡ Fun fact **I like solving competitive coding problems. I like to explore new technologies.**
+- ⚡ Fun fact:  **I like solving competitive coding problems. I like to explore new technologies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
