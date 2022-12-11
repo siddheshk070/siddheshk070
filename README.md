@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Data Science **Python | SQL | Machine Learning | Tableau |**
 
-- 📫 How to reach me **siddheshk070@gmail.com, www.linkedin.com/in/siddhesh-kumbhar-517627b4**
+- 📫 How to reach me **siddheshk070@gmail.com, www.linkedin.com/in/siddhesh-kumbhar-517627b4, https://github.com/siddheshk070**
 
 - 📄 Know about my experiences [www.linkedin.com/in/siddhesh-kumbhar-517627b4](www.linkedin.com/in/siddhesh-kumbhar-517627b4)
 
