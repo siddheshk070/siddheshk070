@@ -8,7 +8,7 @@
 <a href="https://github.com/siddheshk070">
   
   <p align="center">
-  <img src="https://github.com/siddheshk070/siddheshk070/blob/main/data%20science%20image.jfif" alt="Background" height="250" width="600"> 
+  <img src="https://github.com/siddheshk070/siddheshk070/blob/main/data%20science%20image.jfif" alt="Background" height="250" width="700"> 
 
 <h3 align="center">A passionate Data Scientist from Navi Mumbai,India.</h3>
 
