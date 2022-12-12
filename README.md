@@ -28,7 +28,7 @@
 
 <div align="center">
   <div>
-    <img src="https://github.com/siddheshk070/siddheshk070/blob/main/upgrade-premium-animation-dribbble.gif" align="center" width="450" height="275">
+    <img src="https://github.com/siddheshk070/siddheshk070/blob/main/final_6396c851aa90170550021109_90137%20(1).gif" align="center" width="300" height="300">
 </div>
   
   
