@@ -29,8 +29,8 @@
 <div align="center">
   <div>
     <img src="https://github.com/siddheshk070/siddheshk070/blob/main/final_6396c851aa90170550021109_90137%20(1).gif" align="center" width="215" height="215">
-    <img src="https://github.com/siddheshk070/siddheshk070/blob/main/__02-____%20(1).gif" align="center" width="400" height="150">
-    <img src="https://github.com/siddheshk070/siddheshk070/blob/main/ava_ai%20(1).gif" align="center" width="215" height="200">
+    <img src="https://github.com/siddheshk070/siddheshk070/blob/main/voice-visualization.webp" align="center" width="400" height="175">
+    <img src="https://github.com/siddheshk070/siddheshk070/blob/main/ava_ai%20(1).gif" align="center" width="225" height="215">
 </div>
   
   
