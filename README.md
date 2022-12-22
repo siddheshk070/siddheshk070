@@ -19,6 +19,8 @@
     <img src="https://github.com/siddheshk070/siddheshk070/blob/main/frame%20(2).png" align="center" width="140" height="180">
 </div>
 
+  
+  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddheshk070" alt="siddheshk070" /></a> </p>
 
 - 🌱 I’m currently learning Data Science **Python | SQL | Machine Learning | Tableau |**
