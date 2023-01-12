@@ -12,11 +12,11 @@
 
 <h3 align="center">A passionate Data Scientist from Navi Mumbai,India.</h3>
 
-<p align="center"> <img src="https://github.com/siddheshk070/siddheshk070/blob/main/4a6240659e2ccf732b358fd3799bb63f.png" alt="siddheshk070" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=siddheshk070&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshk070" /> </p>
 
 <div align="center">
   <div>
-    <img src="https://github.com/siddheshk070/siddheshk070/blob/main/frame%20(2).png" align="center" width="140" height="180">
+    <img src="https://github.com/siddheshk070/siddheshk070/blob/main/4a6240659e2ccf732b358fd3799bb63f.png" align="center" width="140" height="180">
 </div>
 
   
